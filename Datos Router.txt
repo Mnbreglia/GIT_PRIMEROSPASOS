@@ -1,4 +1,3 @@
-usuario y password tecnicolor
 
 Usuario: custadmin
 Pass: cga4233
