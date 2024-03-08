@@ -2,6 +2,6 @@
 Usuario: custadmin
 Pass: cga4233
 
-Agrego una nueva linea de codigo
+Agrego una nueva linea de codigo esta linea venia del desktop
 
 Agrego una nueva linea pero desde la web
